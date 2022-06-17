@@ -1,0 +1,29 @@
+body {
+  font-family: Montserrat;
+  top: 30px;
+  left: 20px;
+  margin-right: 30%;
+}
+
+h1 { 
+  color: #FFB300;
+  font-size: 60px;
+}
+
+.descrip {
+  font-size: 25px;
+}
+
+.subti { 
+  font-size: 30px;
+  color: #FFB300;
+}
+
+.lista {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.border {
+  border-top: solid 5px #999999;
+}
